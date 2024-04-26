@@ -4,7 +4,7 @@ Dieses Projekt implementiert eine RESTful API für eine einfache Todo-App. Die A
 Installation
 Klonen Sie das Repository:
 
-git clone https://github.com/dein-benutzername/todo-app.git
+git clone https://github.com/Emanuelo77/ToDoAppG-lcan.gitgit
 Wechseln Sie in das Projektverzeichnis:
 
 cd todo-app
